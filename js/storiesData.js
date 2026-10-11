@@ -13,6 +13,8 @@ const stories = [
         tags: [
             "Science Fiction",
             "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
             "ai",
             "Internet",
             "Dystopian"
@@ -31,6 +33,8 @@ const stories = [
         tags: [
             "Science Fiction",
             "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
             "Horror",
             "Dark",
             "Moon"
@@ -49,6 +53,8 @@ const stories = [
         tags: [
             "Science Fiction",
             "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
             "Simulation",
             "Eternity",
             "Infinity"
@@ -69,6 +75,8 @@ const stories = [
         tags: [
             "Science Fiction",
             "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
             "Simulation",
             "Eternity",
             "Infinity",
