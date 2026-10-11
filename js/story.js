@@ -62,45 +62,45 @@ story.tags.forEach(tag => {
 
 fetch(`storyData/${story.id}.txt`)
 
-.then(response => {
+    .then(response => {
 
-    if (!response.ok) {
+        if (!response.ok) {
 
-        throw new Error("Unable to load story.");
+            throw new Error("Unable to load story.");
 
-    }
+        }
 
-    return response.text();
+        return response.text();
 
-})
+    })
 
-.then(text => {
+    .then(text => {
 
-    buildStory(text);
+        buildStory(text);
 
-})
+    })
 
-.catch(error => {
+    .catch(error => {
 
-    console.error(error);
+        console.error(error);
 
-    storyContent.innerHTML = `
+        storyContent.innerHTML = `
         <p>
             Unable to load this story.
         </p>
     `;
 
-});
+    });
 
 // =======================================================
 
-function buildStory(text){
+function buildStory(text) {
 
     storyContent.innerHTML = "";
 
     const paragraphs = text
         .trim()
-        .split(/\r?\n\r?\n/);
+        .split(/\r?\n/);
 
     let totalWords = 0;
 
@@ -108,10 +108,10 @@ function buildStory(text){
 
         const trimmed = paragraph.trim();
 
-        if(trimmed === "") return;
+        if (trimmed === "") return;
 
         // Image marker
-        if(trimmed.startsWith("[image:") && trimmed.endsWith("]")){
+        if (trimmed.startsWith("[image:") && trimmed.endsWith("]")) {
 
             const filename = trimmed
                 .replace("[image:", "")
