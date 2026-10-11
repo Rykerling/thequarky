@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Stories | The Quarky</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<header>
+
+    <img src="assets/logo.png" class="logo" alt="The Quarky">
+
+    <nav>
+
+        <a href="index.html">Home</a>
+
+        <a href="stories.html">Stories</a>
+
+        <a href="comics.html">Comics</a>
+
+        <a href="about.html">About</a>
+
+    </nav>
+
+</header>
+
+<main>
+
+<section class="stories-page">
+
+<h1>Stories</h1>
+
+<div class="search-container">
+
+<input
+type="text"
+id="storySearch"
+placeholder="Search stories...">
+
+</div>
+
+<div id="storyGrid" class="story-grid">
+
+<!-- Filled automatically by JavaScript -->
+
+</div>
+
+</section>
+
+</main>
+
+<footer>
+
+© 2026 The Quarky
+
+</footer>
+
+
+<!-- ================= Overlay ================= -->
+
+<div id="overlay" class="overlay"></div>
+
+
+<!-- ================= Sidebar ================= -->
+
+<aside id="storySidebar" class="story-sidebar">
+
+<button id="closeSidebar" class="close-sidebar">
+
+✕
+
+</button>
+
+<img
+id="sidebarCover"
+class="sidebar-cover"
+src="assets/covers/placeholder.png"
+alt="Story Cover">
+
+<h2 id="sidebarTitle">
+
+Story Title
+
+</h2>
+
+<p class="sidebar-release">
+
+Released:
+<span id="sidebarRelease">
+
+October 2026
+
+</span>
+
+</p>
+
+<p id="sidebarDescription">
+
+Description goes here.
+
+</p>
+
+<div
+id="sidebarTags"
+class="sidebar-tags">
+
+</div>
+
+<button id="readStoryButton">
+
+Read Story
+
+</button>
+
+</aside>
+
+<script src="js/stories.js"></script>
+
+</body>
+
+</html>
