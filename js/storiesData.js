@@ -59,9 +59,7 @@ const stories = [
             "Eternity",
             "Infinity"
         ]
-    }
-
-    ,
+    },
 
     {
         id: "five-second-eternity-part-two",
