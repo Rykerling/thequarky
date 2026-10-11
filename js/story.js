@@ -99,8 +99,9 @@ function buildStory(text) {
     storyContent.innerHTML = "";
 
     const paragraphs = text
-        .trim()
-        .split(/\r?\n/);
+        .split(/\r?\n/)
+        .map(p => p.trim())
+        .filter(p => p.length > 0);
 
     let totalWords = 0;
 
