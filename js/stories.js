@@ -4,27 +4,6 @@
 // Part 1
 // =======================================================
 
-const stories = [
-
-    {
-        id: "the-arc-rift",
-
-        title: "The Arc Rift",
-
-        description: "Zan traverses across the lunar surface to become part of the Arc Rift.",
-
-        release: "October 2026",
-
-        tags: [
-            "Science Fiction",
-            "Sci-Fi",
-            "Horror",
-            "Dark",
-            "Moon"
-        ]
-    }
-
-];
 
 // =======================================================
 // Elements
