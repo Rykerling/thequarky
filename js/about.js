@@ -11,7 +11,7 @@ const aboutData = {
 
     inProgress: `
 
-The two main series of short stories I'm working on are Paradox and Dwellers, which contains Numb, Blind, and Humane so far, and I have a few other series I planning on starting as well. I'm also writing a Sci fi action novel on the side, but it'll probably end up being pretty short.
+The two main series of short stories I'm working on are Paradox and Dwellers, which contains Numb, Blind, and Humane so far, and I have a few other series I planning on starting as well. I'm also writing a sci fi action novel on the side, but it'll probably end up being pretty short.
 
 `,
 
@@ -19,7 +19,7 @@ The two main series of short stories I'm working on are Paradox and Dwellers, wh
 
 Hi! I'm Ryker Besser.
 
-I'm 15 years old and love to write stories about mind bending concepts and ideas. I'm very interested in quantum mechanics, I've already skipped one grade in math and I'm planning on skipping another one this summer, so maybe by then my short stories will have a little bit more math stuff in them. My home address is... well actually I think I should share that with you. 
+I'm 15 years old and love to write stories about mind bending concepts and ideas. I'm very interested in quantum mechanics, I've already skipped one grade in math and I'm planning on skipping another one this summer, so maybe by then my short stories will have a little bit more math stuff in them. My home address is... well actually I don't think I should share that with you. 
 
 `
 
@@ -34,9 +34,6 @@ document.getElementById("storyCount").textContent =
 
 document.getElementById("comicCount").textContent =
     `I've published ${comics.length} ${comics.length === 1 ? "comic" : "comics"}.`;
-
-document.getElementById("wordCount").textContent =
-    `I've published ${totalWords.toLocaleString()} words.`;
 
 // =======================================================
 // Total Word Count
@@ -72,7 +69,7 @@ async function updateWordCount() {
     }
 
     document.getElementById("wordCount").textContent =
-        totalWords.toLocaleString();
+        `I've published ${totalWords.toLocaleString()} words.`;
 
 }
 
