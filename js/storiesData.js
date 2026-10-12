@@ -2,6 +2,46 @@ const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
 
     {
+        id: "the-star-message",
+
+        title: "The Star Message",
+
+        description: "Aliens send us a message, and it will change the course of everything that is to come.",
+
+        release: "October 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Mind bending",
+            "Aliens",
+            "Time"
+        ]
+    },
+
+    {
+        id: "everything-that-all-could-be",
+
+        title: "Everything that all could be",
+
+        description: "An individual of a civilization builds something that allows that civilization to become everything that all could be.",
+
+        release: "October 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Mind bending",
+            "Reality",
+            "Dystopian"
+        ]
+    },
+
+    {
         id: "parallax",
 
         title: "Parallax",
