@@ -1,6 +1,102 @@
 const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
 
+
+    {
+        id: "numb",
+
+        title: "Numb",
+
+        description: "Oni, a member of a tribe that has lost all senses of feeling due to the cold, must escape With the rest of her tribe, before they are annihilated by a more powerful Human civilization.",
+
+        release: "October 2026",
+
+        tags: [
+            "Fantasy",
+            "cold",
+            "steampunk",
+            "Aterea",
+            "Journey"
+        ]
+    },
+
+    {
+        id: "humane",
+
+        title: "Humane",
+
+        description: "In the follow up short story of 'Blind', City 62 faces a new threat just as they're running out of resources to keep their city, positioned in the middle of the desert, alive.",
+
+        release: "October 2026",
+
+        tags: [
+            "Fantasy",
+            "Dark",
+            "steampunk",
+            "Aterea",
+            "City"
+        ]
+    },
+
+
+    {
+        id: "blind",
+
+        title: "Blind",
+
+        description: "A species of blind cannibalistic humanoid creatures struggle to survive, sealed away in the caves. But things are changing and there may be a way out.",
+
+        release: "October 2026",
+
+        tags: [
+            "Fantasy",
+            "Dark",
+            "Caves",
+            "Aterea",
+            "Cannibals"
+        ]
+    },
+
+    {
+        id: "in-undone-time",
+
+        title: "In Undone Time",
+
+        description: "A young protagonist and his friend struggle with The past and their addictions to it.",
+
+        release: "October 2026",
+
+        tags: [
+            "Dystopian",
+            "Realistic",
+            "Sad",
+            "Memories",
+            "Drug",
+            "Kronospsychis",
+            "Time"
+        ]
+    },
+
+    {
+        id: "in-undone-time",
+
+        title: "In Undone Time",
+
+        description: "A young protagonist and his friend struggle with The past and their addictions to it.",
+
+        release: "October 2026",
+
+        tags: [
+            "Dystopian",
+            "Realistic",
+            "Sad",
+            "Memories",
+            "Drug",
+            "Kronospsychis",
+            "Time"
+        ]
+    },
+
     {
         id: "the-star-message",
 
