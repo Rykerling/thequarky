@@ -11,7 +11,7 @@ const aboutData = {
 
     inProgress: `
 
-The two main series of short stories I'm working on are Paradox and Dwellers, which contains Numb, Blind, and Humane so far, and I have a few other series I planning on starting as well. I'm also writing a sci fi action novel on the side, but it'll probably end up being pretty short.
+The two main series of short stories I'm working on are Paradox and Aterea, which contains Numb, Blind, and Humane so far, and I have a few other series I planning on starting as well. I'm also writing a sci fi action novel on the side, but it'll probably end up being pretty short.
 
 `,
 
