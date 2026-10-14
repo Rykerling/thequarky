@@ -7,7 +7,7 @@ const stories = [
 
         title: "Numb",
 
-        description: "Oni, a member of a tribe that has lost all senses of feeling due to the cold, must escape With the rest of her tribe, before they are annihilated by a more powerful Human civilization.",
+        description: "Oni, a member of a tribe that has lost all senses of feeling due to the cold, must escape with the rest of her tribe, before they are annihilated by a more powerful Human civilization.",
 
         release: "October 2026",
 
@@ -25,7 +25,7 @@ const stories = [
 
         title: "Humane",
 
-        description: "In the follow up short story of 'Blind', City 62 faces a new threat just as they're running out of resources to keep their city, positioned in the middle of the desert, alive.",
+        description: "In the follow up short story of 'Blind', City 62 faces a new threat, just as they're running out of resources to keep the citizens of their city alive, positioned in the middle of the desert, far away from most civilization.",
 
         release: "October 2026",
 
@@ -77,25 +77,6 @@ const stories = [
         ]
     },
 
-    {
-        id: "in-undone-time",
-
-        title: "In Undone Time",
-
-        description: "A young protagonist and his friend struggle with The past and their addictions to it.",
-
-        release: "October 2026",
-
-        tags: [
-            "Dystopian",
-            "Realistic",
-            "Sad",
-            "Memories",
-            "Drug",
-            "Kronospsychis",
-            "Time"
-        ]
-    },
 
     {
         id: "the-star-message",
