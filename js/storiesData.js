@@ -62,7 +62,7 @@ const stories = [
 
         title: "In Undone Time",
 
-        description: "A young protagonist and his friend struggle with The past and their addictions to it.",
+        description: "A young protagonist and his friend struggle with the past and their addictions to it.",
 
         release: "October 2026",
 
