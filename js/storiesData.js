@@ -58,6 +58,24 @@ const stories = [
     },
 
     {
+        id: "architect",
+
+        title: "Architect",
+
+        description: "A new system for choosing God like entities to have control over pieces of a fractured universe Is put into play.",
+
+        release: "October 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi"
+        ]
+    },
+
+
+    {
         id: "in-undone-time",
 
         title: "In Undone Time",
