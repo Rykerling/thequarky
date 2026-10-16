@@ -25,7 +25,7 @@ const stories = [
 
         title: "Humane",
 
-        description: "In the follow up short story of 'Blind', City 62 faces a new threat, just as they're running out of resources to keep the citizens of their city alive, positioned in the middle of the desert, far away from most civilization.",
+        description: "In the follow up short story of 'Blind', City 62 faces a new threat just as they're running out of resources to keep the citizens of their city alive, positioned in the middle of the desert, far away from most civilization.",
 
         release: "October 2026",
 
