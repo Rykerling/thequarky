@@ -3,6 +3,22 @@ const stories = [
 
 
     {
+        id: "nine-dots",
+
+        title: "Nine Dots",
+
+        description: "Three entities decide to try simulating universes.",
+
+        release: "October 2026",
+
+        tags: [
+            "Mind bending",
+            "Reality",
+            "Time"
+        ]
+    },
+
+    {
         id: "numb",
 
         title: "Numb",
