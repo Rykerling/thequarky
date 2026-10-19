@@ -73,6 +73,16 @@ const comics = [
     {
         id: 14,
         title: "How to play the guitar"
+    },
+
+    {
+        id: 15,
+        title: "Captcha"
+    },
+
+    {
+        id: 16,
+        title: "Irrational"
     }
 
 ];
