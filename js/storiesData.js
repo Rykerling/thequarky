@@ -1,6 +1,22 @@
 const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
+    {
+        id: "paradox-pt-1",
 
+        title: "Paradox: Part 1",
+
+        description: "In the first installment of Paradox, a philosopher is asked to do something to help a science company save the world.",
+
+        release: "October 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Realistic",
+        ]
+    },
 
     {
         id: "nine-dots",
