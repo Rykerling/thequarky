@@ -83,6 +83,16 @@ const comics = [
     {
         id: 16,
         title: "Irrational"
+    },
+
+    {
+        id: 17,
+        title: "Absolute value"
+    },
+
+    {
+        id: 18,
+        title: "Right Triangle"
     }
 
 ];
