@@ -115,7 +115,7 @@ const stories = [
 
         title: "Architect",
 
-        description: "A new system for choosing God like entities to have control over pieces of a fractured universe Is put into play.",
+        description: "A new system for choosing God like entities to have control over pieces of a fractured universe is put into play.",
 
         release: "October 2026",
 
