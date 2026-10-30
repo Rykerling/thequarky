@@ -1,5 +1,26 @@
 const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
+
+
+    {
+        id: "the-fibonacci-killer",
+
+        title: "The Fibonacci killer",
+
+        description: "In the outer remnants of a fallen city, an individual with visions is accused of murder, and must find the actual killer In three days, his only lead is that the number of kills per day matches a simple mathematical sequence.",
+
+        release: "October 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Murder",
+            "Mystery",
+        ]
+    },
+
     {
         id: "paradox-pt-1",
 
