@@ -1,6 +1,25 @@
 const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
 
+    {
+        id: "paradox-pt-2",
+
+        title: "Paradox: Part 2",
+
+        description: "In the second installment of the Paradox series, we learn about Arthur's life, ideas, and motives.",
+
+        release: "November 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Realistic",
+            "Drama",
+            "Sad"
+        ]
+    },
 
     {
         id: "the-fibonacci-killer",
