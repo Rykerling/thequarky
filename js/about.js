@@ -19,7 +19,9 @@ The main series of short stories I'm working on is Paradox, and I have a few oth
 
 Hi! I'm Ryker Besser.
 
-I'm 15 years old and love to write stories about mind bending concepts and ideas. I'm very interested in quantum mechanics, I've already skipped one grade in math and I'm planning on skipping another one this summer, so maybe by then my short stories will have a little bit more math stuff in them. My home address is... well actually I don't think I should share that with you. 
+I'm 15 years old and love to write stories about mind bending concepts and ideas. I'm very interested in quantum mechanics, I've already skipped one grade in math and I'm planning on skipping another one this summer, so maybe by then my short stories will have a little bit more math stuff in them. My home address is... well actually I don't think I should share that with you. My favorite story I've published is a tie between 'Nine Dots' and 'Numb', and my least favorite is probably 'Five Second Eternity Part 1'. 
+
+My editor is Broderick Fife, He mostly helps with grammar, although he has proved very helpful in story flow as well. His favorite of my published stories is 'Blind' and his least favorite is 'Nine Dots'.
 
 `
 
