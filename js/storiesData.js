@@ -2,6 +2,24 @@ const stories = [
     //Note to self, always put the story data at the top, Above the rest of the stories, otherwise the newest story code won't work
 
     {
+        id: "paradox-pt-3",
+
+        title: "Paradox: Part 3",
+
+        description: "In the third installment of the Paradox series, We learn How Paradox was founded, and question the meaning of an impossible message.",
+
+        release: "November 2026",
+
+        tags: [
+            "Science Fiction",
+            "Sci-Fi",
+            "SciFi",
+            "Sci Fi",
+            "Realistic",
+            "Mystery"
+        ]
+    },
+    {
         id: "paradox-pt-2",
 
         title: "Paradox: Part 2",
